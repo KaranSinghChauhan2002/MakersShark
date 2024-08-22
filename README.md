@@ -113,13 +113,13 @@ Fields:
 ```./mvnw spring-boot:run```
 
 ### Access the API:
-`The API will be available at http://localhost:8080.`
+```The API will be available at http://localhost:8080.```
 
 ### Testing with Postman
 
 ### Get All Suppliers
 `Method: GET`
-`URL: http://localhost:8080/api/supplier`
+```URL: http://localhost:8080/api/supplier```
 
 ### Filter Suppliers
 
@@ -134,4 +134,6 @@ Fields:
   "natureOfBusiness": "SMALL_SCALE",
   "manufacturingProcesses": ["CASTING"]
 }
-``` 
+```
+
+This project is licensed under the MIT License - see the LICENSE file for details.
