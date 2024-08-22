@@ -99,7 +99,7 @@ Fields:
 ### Running the Application
 
 - **Clone the Repository:**
-```git clone https://github.com/your-repo/makersharks-api.git```
+```git clone https://github.com/KaranSinghChauhan2002/MakersShark.git```
 
 ### Navigate to the Project Directory:
 ```cd makersharks-api```
