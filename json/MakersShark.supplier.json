@@ -1,0 +1,276 @@
+[{
+  "_id": {
+    "$oid": "66c6e136e5c5e4897e5d4b02"
+  },
+  "supplierId": "SUP001",
+  "companyName": "Alpha Manufacturing",
+  "website": "http://alphamfg.com",
+  "location": "Mumbai",
+  "natureOfBusiness": "SMALL_SCALE",
+  "manufacturingProcesses": [
+    "MOULDING",
+    "CASTING"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c6e136e5c5e4897e5d4b03"
+  },
+  "supplierId": "SUP002",
+  "companyName": "Beta Industries",
+  "website": "http://betaind.com",
+  "location": "Delhi",
+  "natureOfBusiness": "LARGE_SCALE",
+  "manufacturingProcesses": [
+    "3D_PRINTING",
+    "COATING"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c6e136e5c5e4897e5d4b04"
+  },
+  "supplierId": "SUP003",
+  "companyName": "Gamma Works",
+  "website": "http://gammaworks.com",
+  "location": "Mumbai",
+  "natureOfBusiness": "MEDIUM_SCALE",
+  "manufacturingProcesses": [
+    "MOULDING",
+    "COATING"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c6e136e5c5e4897e5d4b05"
+  },
+  "supplierId": "SUP004",
+  "companyName": "Delta Fabrication",
+  "website": "http://deltafab.com",
+  "location": "Chennai",
+  "natureOfBusiness": "SMALL_SCALE",
+  "manufacturingProcesses": [
+    "CASTING"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c6e136e5c5e4897e5d4b06"
+  },
+  "supplierId": "SUP005",
+  "companyName": "Epsilon Products",
+  "website": "http://epsilonproducts.com",
+  "location": "Kolkata",
+  "natureOfBusiness": "MEDIUM_SCALE",
+  "manufacturingProcesses": [
+    "MOULDING",
+    "3D_PRINTING"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c6e136e5c5e4897e5d4b07"
+  },
+  "supplierId": "SUP006",
+  "companyName": "Zeta Engineering",
+  "website": "http://zetaeng.com",
+  "location": "Delhi",
+  "natureOfBusiness": "LARGE_SCALE",
+  "manufacturingProcesses": [
+    "COATING",
+    "MOULDING"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c6e136e5c5e4897e5d4b08"
+  },
+  "supplierId": "SUP007",
+  "companyName": "Eta Industries",
+  "website": "http://etaind.com",
+  "location": "Pune",
+  "natureOfBusiness": "SMALL_SCALE",
+  "manufacturingProcesses": [
+    "3D_PRINTING"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c6e136e5c5e4897e5d4b09"
+  },
+  "supplierId": "SUP008",
+  "companyName": "Theta Manufacturing",
+  "website": "http://thetamfg.com",
+  "location": "Bangalore",
+  "natureOfBusiness": "LARGE_SCALE",
+  "manufacturingProcesses": [
+    "COATING",
+    "CASTING",
+    "MOULDING"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c6e136e5c5e4897e5d4b0a"
+  },
+  "supplierId": "SUP009",
+  "companyName": "Iota Works",
+  "website": "http://iotaworks.com",
+  "location": "Mumbai",
+  "natureOfBusiness": "MEDIUM_SCALE",
+  "manufacturingProcesses": [
+    "MOULDING"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c6e136e5c5e4897e5d4b0b"
+  },
+  "supplierId": "SUP010",
+  "companyName": "Kappa Fabricators",
+  "website": "http://kappafab.com",
+  "location": "Chennai",
+  "natureOfBusiness": "SMALL_SCALE",
+  "manufacturingProcesses": [
+    "3D_PRINTING",
+    "CASTING"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c6e136e5c5e4897e5d4b0c"
+  },
+  "supplierId": "SUP011",
+  "companyName": "Lambda Industries",
+  "website": "http://lambdaind.com",
+  "location": "Kolkata",
+  "natureOfBusiness": "LARGE_SCALE",
+  "manufacturingProcesses": [
+    "MOULDING",
+    "COATING"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c6e136e5c5e4897e5d4b0d"
+  },
+  "supplierId": "SUP012",
+  "companyName": "Mu Engineering",
+  "website": "http://mueng.com",
+  "location": "Delhi",
+  "natureOfBusiness": "MEDIUM_SCALE",
+  "manufacturingProcesses": [
+    "CASTING",
+    "COATING"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c6e136e5c5e4897e5d4b0e"
+  },
+  "supplierId": "SUP013",
+  "companyName": "Nu Products",
+  "website": "http://nuproducts.com",
+  "location": "Mumbai",
+  "natureOfBusiness": "SMALL_SCALE",
+  "manufacturingProcesses": [
+    "3D_PRINTING"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c6e136e5c5e4897e5d4b0f"
+  },
+  "supplierId": "SUP014",
+  "companyName": "Xi Works",
+  "website": "http://xiworks.com",
+  "location": "Pune",
+  "natureOfBusiness": "LARGE_SCALE",
+  "manufacturingProcesses": [
+    "MOULDING",
+    "CASTING",
+    "COATING"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c6e136e5c5e4897e5d4b10"
+  },
+  "supplierId": "SUP015",
+  "companyName": "Omicron Fabricators",
+  "website": "http://omicronfab.com",
+  "location": "Bangalore",
+  "natureOfBusiness": "MEDIUM_SCALE",
+  "manufacturingProcesses": [
+    "3D_PRINTING",
+    "CASTING"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c6e136e5c5e4897e5d4b11"
+  },
+  "supplierId": "SUP016",
+  "companyName": "Pi Industries",
+  "website": "http://piind.com",
+  "location": "Chennai",
+  "natureOfBusiness": "SMALL_SCALE",
+  "manufacturingProcesses": [
+    "COATING"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c6e136e5c5e4897e5d4b12"
+  },
+  "supplierId": "SUP017",
+  "companyName": "Rho Manufacturing",
+  "website": "http://rhomfg.com",
+  "location": "Mumbai",
+  "natureOfBusiness": "LARGE_SCALE",
+  "manufacturingProcesses": [
+    "MOULDING",
+    "3D_PRINTING"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c6e136e5c5e4897e5d4b13"
+  },
+  "supplierId": "SUP018",
+  "companyName": "Sigma Works",
+  "website": "http://sigmaworks.com",
+  "location": "Delhi",
+  "natureOfBusiness": "MEDIUM_SCALE",
+  "manufacturingProcesses": [
+    "CASTING"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c6e136e5c5e4897e5d4b14"
+  },
+  "supplierId": "SUP019",
+  "companyName": "Tau Fabricators",
+  "website": "http://taufab.com",
+  "location": "Kolkata",
+  "natureOfBusiness": "SMALL_SCALE",
+  "manufacturingProcesses": [
+    "MOULDING",
+    "COATING"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66c6e136e5c5e4897e5d4b15"
+  },
+  "supplierId": "SUP020",
+  "companyName": "Upsilon Industries",
+  "website": "http://upsilonind.com",
+  "location": "Pune",
+  "natureOfBusiness": "LARGE_SCALE",
+  "manufacturingProcesses": [
+    "3D_PRINTING",
+    "MOULDING"
+  ]
+}]
